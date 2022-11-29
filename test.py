@@ -32,3 +32,5 @@ for a, i in enumerate(sample_string2):
     print(a,i)
 
 print ('Хорошая клавиатура')
+
+print ('test')
