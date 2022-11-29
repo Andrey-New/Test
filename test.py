@@ -33,4 +33,4 @@ for a, i in enumerate(sample_string2):
 
 print ('Хорошая клавиатура')
 
-print ('test')
+print ('test25')
